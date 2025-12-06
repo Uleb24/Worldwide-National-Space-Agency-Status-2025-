@@ -1,0 +1,73 @@
+Country,Acronym,Founded,First Space Traveler,Launch Capable,Extraterrestrial Exploration Capable,Human Spaceflight Capable
+Russia,Roskosmos,1955,Yuri Gagarin,Yes,Yes,Yes
+United States,NASA,1958,Alan Shepard,Yes,Yes,Yes
+Argentina,CONAE,1961,Null,Yes,No,No
+Pakistan,SUPARCO,1961,Null,Yes,No,No
+France,CNES,1961,Jean-Loup Chrétien,Yes,No,No
+India,ISRO,1962,Rakesh Sharma,Yes,Yes,Yes
+Belgium,BIRA,1964,Dirk Frimout,No,No,No
+Indonesia,LAPAN,1964,Null,No,No,No
+Denmark,DNSC,1968,Andreas Mogensen,No,No,No
+Germany,DLR,1969,Sigmund Jähn,No,No,No
+Egypt,EASRT-RSC,1971,Sara Sabry,No,No,No
+Sweden,SNSA,1972,Christer Fuglesang,Yes,No,No
+Austria,ALR,1972,Franz Viehlböck,No,No,No
+Peru,CONIDA,1974,Null,No,No,No
+Poland,POLSA,1976,Mirosław Hermaszewski,Yes,No,No
+Saudi Arabia,SSA,1977,Sultan Bin Salman,No,No,No
+Bangladesh,SPARRSO,1980,Null,No,No,No
+North Korea,NATA,1980,Null,Yes,No,No
+Netherlands,SRON,1983,Wubbo Ockels,No,No,No
+Israel,ISA,1983,Illan Ramon,Yes,No,No
+Turkey,TUA,1985,Alper Gezeravcı,No,No,No
+Australia,ASA,1986,Paul Scully-Power,Yes,No,No
+Bulgaria,SRI-BAS,1987,Georgi Ivanov,No,No,No
+Norway,NRS,1987,Null,No,No,No
+Italy,ASI,1988,Franco Malerba,Yes,No,No
+Tunisia,CNCT,1988,Null,No,No,No
+Canada,CSA,1989,Marc Garneau,Yes,No,No
+South Korea,KARI,1989,Yi So-yeon,Yes,No,No
+Morocco,CRTS,1989,Null,No,No,No
+Mongolia,NRSC,1991,Gurragchaa Jugderdemid,No,No,No
+Romania,ASR,1991,Dumitru Prunariu,No,No,No
+Taiwan,TASA,1991,Null,No,No,No
+Hungary,MŰI,1992,Bertalan Farkas,No,No,No
+Ukraine,SSAU,1992,Leonid Kadeniuk,Yes,No,No
+China,CNSA,1993,Yang Liwei,Yes,Yes,Yes
+Brazil,AEB,1994,Marcos Pontes,Yes,No,No
+Nigeria,NASRDA,1998,Null,No,No,No
+Switzerland,SSO,1998,Null,No,No,No
+Thailand,GISTDA,2000,Null,No,No,No
+Chile,CSA,2001,Null,No,No,No
+Malaysia,MYSA,2002,Sheikh Muszaphar Shukor,No,No,No
+Algeria,ASAL,2002,Null,No,No,No
+Japan,JAXA,2003,Toyohiro Akiyama,Yes,Yes,No
+Iran,ISA,2004,Null,Yes,No,No
+Vietnam,TTVTVN,2006,Phạm Tuân,No,No,No
+Lithuania,LSA,2007,Null,No,No,No
+Kazakhstan,KazCosmos,2007,Toktar Aubakirov,No,No,No
+Czechia,MoT,2008,Vladimir Remek,No,No,No
+Venezuela,ABAE,2008,Null,No,No,No
+Azerbaijan,Azercosmos,2010,Tuva Cihangir Atasever,No,No,No
+United Kingdom,UKSA,2010,Helen Sharman,Yes,No,No
+Mexico,AEM,2010,Rodolfo Vela,Yes,No,No
+South Africa,SANSA,2010,Mark Shuttleworth,No,No,No
+Turkmenistan,TNSA,2011,Oleg Kononenko,No,No,No
+Ghana,GSSTI,2012,Null,No,No,No
+Singapore,OSTIn,2013,Null,No,No,No
+Bahrain,BSA,2014,Null,No,No,No
+United Arab Emirates,UAESA,2014,Hazza Al Mansouri,No,No,No
+Philippines,PhilSA,2014,Null,No,No,No
+Syria,SSA,2014,Muhammed Faris,No,No,No
+Paraguay,AEP,2014,Null,No,No,No
+New Zealand,NZSA,2016,Null,Yes,No,No
+Ethiopia,ESSTI,2016,Null,No,No,No
+Kenya,KSA,2017,Null,No,No,No
+Luxembourg,LSA,2018,Null,No,No,No
+Uzbekistan,Uzbekspace agency,2019,Null,No,No,No
+Portugal,PTSPACE,2019,Null,No,No,No
+Greece,HSC,2019,Null,No,No,No
+Costa Rica,AEC,2021,Null,No,No,No
+El Salvador,ESAI,2021,Null,No,No,No
+Rwanda,RSA,2021,Null,No,No,No
+Spain,AEE,2023,Pedro Duque,No,No,No
